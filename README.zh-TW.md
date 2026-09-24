@@ -1,4 +1,9 @@
-# Purdue ENGR 132 MATLAB 課程作品(NCKU–Purdue,2025 暑期)
+# Purdue ENGR 132(Transforming Ideas to Innovation II)— MATLAB 課程作品(NCKU–Purdue,2025 暑期)
+
+![MATLAB](https://img.shields.io/badge/language-MATLAB%20R2025a-0076A8)
+![Octave](https://img.shields.io/badge/checked%20with-GNU%20Octave%2010-0790C0?logo=octave&logoColor=white)
+![Course](https://img.shields.io/badge/course-Purdue%20ENGR%20132%20%C2%B7%20NCKU%E2%80%93Purdue-CEB888)
+![Term](https://img.shields.io/badge/term-Summer%202025-555)
 
 [English](README.md)
 
