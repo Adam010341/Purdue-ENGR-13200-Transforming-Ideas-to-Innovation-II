@@ -1,0 +1,8 @@
+# MATLAB editor autosave files
+*.asv
+
+# MATLAB publish() output
+html/
+
+# Written at runtime by final-project/text-based-casino/main_function.m
+player_records.csv
