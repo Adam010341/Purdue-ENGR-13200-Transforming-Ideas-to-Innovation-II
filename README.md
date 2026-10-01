@@ -7,13 +7,13 @@
 
 [繁體中文](README.zh-TW.md)
 
-MATLAB assignments from the NCKU–Purdue summer program (July 2025): scripting, plotting, selection, loops, user-defined functions and linear regression, plus a team final project, a text-based casino game.
+MATLAB assignments from the NCKU–Purdue summer program, July 2025. Short assignments on scripting, plotting, selection, loops, functions and linear regression, plus a team final project: a text-based casino game.
 
 ## Highlights
 
-- **Text-based casino** ([`final-project/text-based-casino/`](final-project/text-based-casino/)). Team project. I wrote the slot machine, roulette and Chinese Roulette games: ASCII animation with `fprintf`, `clc` and `pause`, random outcomes with `randi`, and the roulette board as a 12×12 matrix. [Details below](#final-project-text-based-casino).
-- **Linear regression on NOAA greenhouse-gas data** ([`A11Q3_airPolution.m`](assignments/A11-linear-regression/A11Q3_airPolution.m)). `polyfit` trend lines on NOAA GML global monthly means, with SSE, SST and r² computed in loops. Slopes: 1.8434 ppm/yr for CO₂ (1979–2023), 5.5272 ppb/yr for CH₄ (1983–2023).
-- **Work from measured force data** ([`A07Q4_conveyorPusher.m`](assignments/A07-loops/A07Q4_conveyorPusher.m)). A `for` loop integrates 31 force–displacement samples with the trapezoidal rule. Total work: 157.19 J.
+- Text-based casino ([`final-project/text-based-casino/`](final-project/text-based-casino/)). Team project. I wrote the slot machine, roulette and Chinese Roulette games. They animate ASCII art with `fprintf`, `clc` and `pause` and use `randi` for outcomes. The roulette board is a 12×12 matrix. [Details below](#final-project-text-based-casino).
+- Linear regression on NOAA greenhouse-gas data ([`A11Q3_airPolution.m`](assignments/A11-linear-regression/A11Q3_airPolution.m)). `polyfit` trend lines on NOAA GML global monthly means, with SSE, SST and r² computed in loops. Slopes: 1.8434 ppm/yr for CO₂ (1979–2023), 5.5272 ppb/yr for CH₄ (1983–2023).
+- Work from measured force data ([`A07Q4_conveyorPusher.m`](assignments/A07-loops/A07Q4_conveyorPusher.m)). A `for` loop integrates 31 force–displacement samples with the trapezoidal rule. Total work: 157.19 J.
 
 ![CO2 and CH4 measured data with fitted trend lines](docs/figures/A11Q3_co2_ch4_trend.png)
 

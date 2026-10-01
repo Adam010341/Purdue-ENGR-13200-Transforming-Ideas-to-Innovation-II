@@ -11,9 +11,9 @@ NCKU–Purdue 暑期課程(2025 年 7 月)的 MATLAB 作業:腳本、繪圖、�
 
 ## 重點作品
 
-- **文字版賭場**([`final-project/text-based-casino/`](final-project/text-based-casino/))。團隊專題。我負責拉霸機、輪盤與 Chinese Roulette:用 `fprintf`、`clc`、`pause` 做 ASCII 動畫,用 `randi` 產生隨機結果,輪盤盤面存成 12×12 矩陣。[詳見下方](#期末專題文字版賭場)。
-- **NOAA 溫室氣體資料線性回歸**([`A11Q3_airPolution.m`](assignments/A11-linear-regression/A11Q3_airPolution.m))。用 `polyfit` 對 NOAA GML 全球月平均資料擬合趨勢線,以迴圈計算 SSE、SST 與 r²。斜率:CO₂ 1.8434 ppm/年(1979–2023)、CH₄ 5.5272 ppb/年(1983–2023)。
-- **由量測力資料計算功**([`A07Q4_conveyorPusher.m`](assignments/A07-loops/A07Q4_conveyorPusher.m))。以 `for` 迴圈用梯形法積分 31 筆力–位移資料,總功 157.19 J。
+- 文字版賭場([`final-project/text-based-casino/`](final-project/text-based-casino/))。團隊專題。我負責拉霸機、輪盤與 Chinese Roulette:用 `fprintf`、`clc`、`pause` 做 ASCII 動畫,用 `randi` 產生隨機結果,輪盤盤面存成 12×12 矩陣。[詳見下方](#期末專題文字版賭場)。
+- NOAA 溫室氣體資料線性回歸([`A11Q3_airPolution.m`](assignments/A11-linear-regression/A11Q3_airPolution.m))。用 `polyfit` 對 NOAA GML 全球月平均資料擬合趨勢線,以迴圈計算 SSE、SST 與 r²。斜率:CO₂ 1.8434 ppm/年(1979–2023)、CH₄ 5.5272 ppb/年(1983–2023)。
+- 由量測力資料計算功([`A07Q4_conveyorPusher.m`](assignments/A07-loops/A07Q4_conveyorPusher.m))。以 `for` 迴圈用梯形法積分 31 筆力–位移資料,總功 157.19 J。
 
 ![CO2 與 CH4 量測資料及擬合趨勢線](docs/figures/A11Q3_co2_ch4_trend.png)
 
